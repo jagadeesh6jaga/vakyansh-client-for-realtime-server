@@ -1,5 +1,5 @@
-#SERVER_IP = "0.0.0.0"
-SERVER_IP = 'speech-one.eastus.cloudapp.azure.com'
+SERVER_IP = "0.0.0.0"
+#SERVER_IP = 'speech-one.eastus.cloudapp.azure.com'
 SERVER_PORT=50052
 #SERVER_IP = '0.0.0.0:50051'
 HOST_IP = "0.0.0.0"
